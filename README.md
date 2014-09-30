@@ -12,3 +12,5 @@ CSR Generator
     writing new private key to 'example_com.key'
     -----
     Done
+    # ls
+    csr-generator.py  example_com.csr  example_com.key
